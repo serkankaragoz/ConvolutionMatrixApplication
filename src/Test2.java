@@ -22,9 +22,8 @@ public class Test2 {
 
     public static boolean isFirst = true;
 
-    public static final String exampleImagePath = "D:\\SERKAN\\AAA SERKAN LAPTOPTAN GELENLER\\Java convolution deneme\\ConvolutionDeneme\\images\\lena.jpg";
-    //public static final String exampleImagePath = "E:\\kodlama hakkinda\\java\\Java convolution deneme\\ConvolutionDeneme\\images\\lena.jpg";
-
+    public static final String exampleImagePath = "path";
+    
     public static void main(String[] args) {
 
         new Test2();
